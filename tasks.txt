@@ -1,0 +1,4 @@
+Drafted project outline (2h)
+Implemented API endpoints (3.5 hours)
+Design review meeting (45m)
+Bug fixes and code review (1h 30m)
